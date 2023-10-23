@@ -1,4 +1,4 @@
-# raul luna
+# clases
 from memoria import Memoria
 from block import Block
 
