@@ -1,3 +1,4 @@
+#raul luna
 class Proceso:
      def __init__(self, nombre, tamaño):
         self.nombre = nombre  
