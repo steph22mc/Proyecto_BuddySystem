@@ -1,4 +1,4 @@
-# Importar clases
+# raul luna
 from memoria import Memoria
 from block import Block
 
