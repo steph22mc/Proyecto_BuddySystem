@@ -1,5 +1,4 @@
 #raul luna
-class Block:
     class Block:
     def __init__(self, dirección, tamaño, ocupado):
         self.dirección = dirección 
